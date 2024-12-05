@@ -1,2 +1,3 @@
 #this file is to ignore all unwanted files...  
 /.peoject
+/target/
