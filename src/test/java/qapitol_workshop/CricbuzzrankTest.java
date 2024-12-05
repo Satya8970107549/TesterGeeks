@@ -64,5 +64,21 @@ public class CricbuzzrankTest extends Baseclass {
 		public void testmain8() {
 			System.out.println("Helloo Satya !!!! Checking new commits....");
 			}
+		
+		public void testmain9() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain10() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain11() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain12() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
 
 	}
