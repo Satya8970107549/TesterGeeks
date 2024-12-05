@@ -27,5 +27,9 @@ public class CricbuzzrankTest extends Baseclass {
 	  }
 	  driver.quit();
 }
+	
+	public void testmain() {
+		System.out.println("Helloo Satya !!!! Checking new commits....");
+		}
 
 	}
