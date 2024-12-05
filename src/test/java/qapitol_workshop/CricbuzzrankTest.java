@@ -27,8 +27,64 @@ public class CricbuzzrankTest extends Baseclass {
 	  }
 	  driver.quit();
 }
+
 	public void demo() {
 		System.out.println("demo");
 	}
+
+	
+	public void testmain() {
+		System.out.println("Helloo Satya !!!! Checking new commits....");
+		}
+	
+	
+	public void testmain1() {
+		System.out.println("Helloo Satya !!!! Checking new commits....");
+		}
+	
+	public void testmain2() {
+		System.out.println("Helloo Satya !!!! Checking new commits....");
+		}
+	
+	public void testmain3() {
+		System.out.println("Helloo Satya !!!! Checking new commits....");
+		}
+	
+	
+	public void testmain4() {
+		System.out.println("Helloo Satya !!!! Checking new commits....");
+		}
+	
+	public void testmain5() {
+		System.out.println("Helloo Satya !!!! Checking new commits....");
+		}public void testmain6() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		
+		public void testmain7() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain8() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain9() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain10() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain11() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+		
+		public void testmain12() {
+			System.out.println("Helloo Satya !!!! Checking new commits....");
+			}
+
 
 	}
