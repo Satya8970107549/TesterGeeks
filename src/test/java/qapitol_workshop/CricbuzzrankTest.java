@@ -27,6 +27,8 @@ public class CricbuzzrankTest extends Baseclass {
 	  }
 	  driver.quit();
 }
-	//new changes
+	public void demo() {
+		System.out.println("demo");
+	}
 
 	}
